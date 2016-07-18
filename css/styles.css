@@ -1,0 +1,33 @@
+body {
+	font-size: 16px;
+	background-color: rgb(255,255,255);
+	color: rgb(0,0,0);
+	font-family: "Arial", Helvetica, sans-serif;
+}
+
+#header-nav {
+	background-color: rgb(112,138,144);
+	border: 0;
+	border-radius: 0;
+}
+#menu-title{
+	text-align: center;
+}
+.column-menuitem {
+	background-color: rgb(112,138,144);
+	border-color: rgb(0,0,0);
+	border: 1px;
+	padding: 5px;
+}
+.menuitem-title {
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+
+}
+.menuitem-description{
+	font-weight: normal;
+	text-align: justify;
+	padding: 10px;
+	margin: 0 auto;
+}
